@@ -1,0 +1,11 @@
+{
+    "name": "Tharindu Shehan",
+    "age": 39,
+    "city": "Galkissa",
+    "is_student": false,
+    "courses": [
+        "Math",
+        "Science",
+        "History"
+    ]
+}
